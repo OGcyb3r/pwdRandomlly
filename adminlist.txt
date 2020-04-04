@@ -1,0 +1,10 @@
+@admin
+admin@
+2020admin
+admin2020
+2020@admin
+2020admin@
+@2020admin
+@admin2020
+admin2020@
+admin@2020
