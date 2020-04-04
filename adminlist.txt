@@ -1,6 +1,6 @@
 #
-# This is a test file result
-# admin;2020;@ RESULT WILL BE:
+# THIS IS A TEST FILE 
+# lower RESULT
 #
 @admin
 admin@
